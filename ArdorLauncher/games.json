@@ -1,0 +1,31 @@
+{
+  "games": [
+    {
+      "id": "3f2b7c1e-9a4d-4e5f-8b1a-2c6d9e0f1a2b",
+      "title": "Cyber Drift Racing",
+      "description": "Неоновые трассы, заносы на 200 км/ч и саундтрек от инди-групп. Локальный мультиплеер на одном ТВ.",
+      "exe_path": "C:/Games/CyberDrift/cyberdrift.exe",
+      "icon": "assets/icons/cyberdrift.png",
+      "cover": "assets/covers/cyberdrift.png",
+      "background": "assets/backgrounds/cyberdrift.jpg"
+    },
+    {
+      "id": "9a8b7c6d-5e4f-3a2b-1c0d-9e8f7a6b5c4d",
+      "title": "Dark Realms: Awakening",
+      "description": "Мрачное фэнтези-RPG с процедурными подземельями. 120+ часов геймплея, полная поддержка геймпада.",
+      "exe_path": "C:/Games/DarkRealms/Dark Realms.exe",
+      "icon": "assets/icons/darkrealms.png",
+      "cover": "assets/covers/darkrealms.png",
+      "background": "assets/backgrounds/darkrealms.jpg"
+    },
+    {
+      "id": "11223344-5566-7788-99aa-bbccddeeff00",
+      "title": "Star Colony Builder",
+      "description": "Построй межпланетную империю: ресурсы, дипломатия, орбитальные бойни. Релакс или хардкор — выбирать тебе.",
+      "exe_path": "C:/Games/StarColony/starcolony_launcher.exe",
+      "icon": "assets/icons/starcolony.png",
+      "cover": "assets/covers/starcolony.png",
+      "background": "assets/backgrounds/starcolony.jpg"
+    }
+  ]
+}
