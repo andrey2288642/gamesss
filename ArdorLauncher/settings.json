@@ -1,0 +1,16 @@
+{
+  "music_volume": 70,
+  "sfx_volume": 80,
+  "music_file": "menu_theme.mp3",
+  "sounds": {
+    "hover": "hover.wav",
+    "select": "select.wav",
+    "back": "back.wav"
+  },
+  "gamepad": {
+    "enabled": true,
+    "deadzone": 0.3,
+    "repeat_delay_ms": 400,
+    "repeat_interval_ms": 150
+  }
+}
